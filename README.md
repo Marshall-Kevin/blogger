@@ -1,1 +1,1 @@
-# blogger
+# blogger for the odin project
